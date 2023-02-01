@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@doc-tools/docs": "^2.3.5"
+  }
+}
