@@ -1,0 +1,12 @@
+title: Document name
+description: A description of the document
+meta:
+  title: Metadata
+  noIndex: true
+links:
+- title: First section
+  description: A description of the first section
+  href: path/to/file.md
+- title: Second section
+  description: A description of the second section
+  href: path/to/file.md

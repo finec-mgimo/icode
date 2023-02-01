@@ -1,0 +1,7 @@
+title: icode@MGIMO
+href: index.yaml
+items:
+  - name: О проекте
+    href: README.md
+  - name: Как сделан этот сайт
+    href: start.md
