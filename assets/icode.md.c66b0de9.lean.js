@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as e}from"./app.87874d3d.js";const F=JSON.parse('{"title":"Примеры кода","description":"","frontmatter":{},"headers":[],"relativePath":"icode.md"}'),o={name:"icode.md"},t=e("",2),l=[t];function p(c,r,i,_,d,D){return n(),a("div",null,l)}const h=s(o,[["render",p]]);export{F as __pageData,h as default};
