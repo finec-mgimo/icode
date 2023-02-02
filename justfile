@@ -2,6 +2,10 @@
 list:
   just --list
 
+# Build documentation
+build:
+  yfm -i ./docs -o ./_site
+
 # Prettify markdown files
-prettier:
+pretty:
   npx prettier *.md **/*.md --write  
