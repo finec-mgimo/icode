@@ -1,7 +1,8 @@
-_site/
+just.exe
 node_modules
-.temp
-.cache
+cache
+temp
+
 
 # Logs
 logs
