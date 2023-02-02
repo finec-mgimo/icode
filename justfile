@@ -20,6 +20,7 @@ pretty:
 # Publish to Github Pages
 publish:
   rm -rf docs/.vitepress/dist
+  just pretty
   just build
   just ghp
 
