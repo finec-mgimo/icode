@@ -1,5 +1,5 @@
 [![](https://user-images.githubusercontent.com/9265326/215925164-fa741cd2-83fa-4fa4-a199-04d2343eaec4.png)][dd]
-  
+
 [dd]: https://dd.mgimo.ru/
 
 # icode
