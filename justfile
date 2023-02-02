@@ -1,3 +1,6 @@
+# use cmd.exe instead of sh:
+set shell := ["cmd.exe", "/c"]
+
 # List available commands
 list:
   just --list
@@ -16,4 +19,11 @@ pretty:
 
 # Publish to Github Pages
 publish:
+  rm -rf docs/.vitepress/dist
+  just build
+  just ghp
+
+# Push to Github Pages
+ghp:
   ghp-import -nfp docs/.vitepress/dist
+
