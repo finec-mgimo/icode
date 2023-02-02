@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r,a}from"./app.8f460826.js";const u=JSON.parse('{"title":"Наш инструментарий","description":"","frontmatter":{},"headers":[],"relativePath":"tools.md"}'),o={name:"tools.md"},s=a("",3),i=[s];function n(_,l,c,h,d,p){return r(),t("div",null,i)}const m=e(o,[["render",n]]);export{u as __pageData,m as default};
