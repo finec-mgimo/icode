@@ -5,7 +5,7 @@ export default {
     description: 'Экспериментальный сайт',
     base: '/icode/',
     themeConfig: {
-      logo: '/symbol_placeholder.svg',
+      logo: '/symbol_placeholder_bold.svg',
       socialLinks: [
         { icon: 'github', link: 'https://github.com/finec-mgimo/icode/' }
       ],
@@ -20,6 +20,11 @@ export default {
           items: [
             { text: 'Python', link: '/python' },
             { text: 'SQL', link: '/sql' },
+          ]
+        },
+        {  
+          text: 'Пишем',
+          items: [
             { text: 'Этот сайт', link: '/tools' },
           ]
         }
