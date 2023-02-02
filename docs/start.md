@@ -1,9 +1,9 @@
 # Начать работу
 
-В работе над документацией в этом проекте используются несколько утилит:
+В работе над сайтом используются несколько утилит:
 
-1. [just](https://github.com/casey/just#installation) - для запуска типовых команд.
+1. `npm i @doc-tools/docs -g` - [сам сборщик документации](https://github.com/yandex-cloud/yfm-docs).
 
-2. `npm i @doc-tools/docs -g` - сам сборщик документации.
+2. [just](https://github.com/casey/just#installation) - для запуска типовых команд.
 
 
