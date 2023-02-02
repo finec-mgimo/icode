@@ -7,6 +7,10 @@ export default {
         { icon: 'github', link: 'https://github.com/finec-mgimo/icode/' }
       ],
       outlineTitle: 'На этой странице',
+      docFooter: {
+        prev: 'Предыдущая страница',
+        next: 'Следующая страница'
+      },
       sidebar: [
         {
           text: 'Разработка сайта',
