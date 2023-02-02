@@ -1,10 +1,10 @@
 export default {
     title: 'Цифровая кафедра МГИМО',
     description: 'Экспериментальный сайт',
-    base: '/icode/',    
+    base: '/icode/',
     themeConfig: {
       socialLinks: [
-        { icon: 'github', link: 'https://finec.mgimo.ru/icode/' }
+        { icon: 'github', link: 'https://github.com/finec-mgimo/icode/' }
       ],
       outlineTitle: 'На этой странице',
       sidebar: [
