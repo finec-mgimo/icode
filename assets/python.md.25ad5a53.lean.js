@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,d as o}from"./app.0523c422.js";const F=JSON.parse('{"title":"Примеры кода","description":"","frontmatter":{},"headers":[],"relativePath":"python.md"}'),t={name:"python.md"},l=o("",4),e=[l];function p(c,r,i,d,_,y){return n(),a("div",null,e)}const h=s(t,[["render",p]]);export{F as __pageData,h as default};
