@@ -1,4 +1,7 @@
 _site/
+node_modules
+.temp
+.cache
 
 # Logs
 logs

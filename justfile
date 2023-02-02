@@ -4,7 +4,11 @@ list:
 
 # Build documentation
 build:
-  yfm -i ./docs -o ./_site
+  npx vuepress dev build
+
+# Serve documentation
+serve:
+  npx vuepress dev docs
 
 # Prettify markdown files
 pretty:

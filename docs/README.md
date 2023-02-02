@@ -1,16 +1,8 @@
-[![](https://user-images.githubusercontent.com/9265326/215925164-fa741cd2-83fa-4fa4-a199-04d2343eaec4.png)][dd]
+# README: icode
+
+Сайт [Цифровой кафедры МГИМО][dd]
 
 [dd]: https://dd.mgimo.ru/
-
-# icode
-
-Сайт [Цифровой кафедры МГИМО][dd] в формате Yandex Flavored Markdown (YFM)
-
-[dd]: https://dd.mgimo.ru/
-
-## Yandex Flavored Markdown (YFM) и Builder
-
-- https://github.com/yandex-cloud/yfm-docs
 
 ## Будущие разделы
 
@@ -24,5 +16,9 @@
 ## Технические задачи
 
 - [ ] toolchain для создания документации
-- [ ] добавить логотипа, необходимый размер
-- [ ] раннер casey/just
+- [ ] добавить логотип необходимого размера
+
+```python
+for i in range(5):
+   print("Loops are hard!")
+```
